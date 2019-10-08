@@ -1,0 +1,39 @@
+[submodule "swift/cmark"]
+	path = swift/cmark
+	url = https://github.com/apple/swift-cmark.git
+[submodule "swift/clang"]
+	path = swift/clang
+	url = https://github.com/apple/swift-clang
+[submodule "swift/llvm"]
+	path = swift/llvm
+	url = https://github.com/apple/swift-llvm
+[submodule "swift/swift"]
+	path = swift/swift
+	url = https://github.com/apple/swift
+[submodule "swift/swift-corelibs-libdispatch"]
+	path = swift/swift-corelibs-libdispatch
+	url = https://github.com/apple/swift-corelibs-libdispatch
+[submodule "swift/swift-corelibs-foundation"]
+	path = swift/swift-corelibs-foundation
+	url = https://github.com/apple/swift-corelibs-foundation
+[submodule "swift/swift-corelibs-xctest"]
+	path = swift/swift-corelibs-xctest
+	url = https://github.com/apple/swift-corelibs-xctest
+[submodule "swift/lldb"]
+	path = swift/lldb
+	url = https://github.com/apple/swift-lldb
+[submodule "swift/llbuild"]
+	path = swift/llbuild
+	url = https://github.com/apple/swift-llbuild
+[submodule "swift/curl"]
+	path = swift/curl
+	url = https://github.com/curl/curl
+[submodule "swift/libxml2"]
+	path = swift/libxml2
+	url = https://gitlab.gnome.org/GNOME/libxml2.git
+[submodule "swift/compiler-rt"]
+	path = swift/compiler-rt
+	url = https://github.com/apple/swift-compiler-rt
+[submodule "swift/swift-package-manager"]
+	path = swift/swift-package-manager
+	url = https://github.com/apple/swift-package-manager
